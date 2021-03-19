@@ -1,4 +1,4 @@
-# abcg
+# Atividade 1
 Alunos: Igor Meirelles Lotaif Oliveira e Rafael da Silva Tomaz
 RAs: 11032416 e 11041116
 
